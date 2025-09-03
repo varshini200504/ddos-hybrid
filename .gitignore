@@ -1,0 +1,17 @@
+# Dataset folders/files
+data/
+datasets/
+*.txt
+
+# Python cache / environment
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/

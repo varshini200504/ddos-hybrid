@@ -15,4 +15,4 @@ train_df, test_df = load_nsl_kdd(
 
 print("Train shape:", train_df.shape)
 print("Test shape:", test_df.shape)
-print(train_df.head())
+print(train_df.head(10))
